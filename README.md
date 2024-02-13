@@ -44,10 +44,12 @@ A base de dados disponibilizada é 'teste_indicium_precificacao.csv' e contém 1
 
 Para instalar e executar este projeto, siga as instruções abaixo:
 
-1. Clone o repositório para a sua máquina local usando `git clone`.
-2. Navegue até a pasta do projeto usando `cd nome-da-pasta`.
-3. Instale as dependências necessárias usando `pip install -r requirements.txt`.
-4. Abra o arquivo `LH_CD_ALINE_CASTRO.ipynb` em um ambiente Jupyter Notebook.
+1. Clone o repositório para a sua máquina local usando `git clone`;
+2. Navegue até a pasta do projeto usando `cd nome-da-pasta`;
+3. Instale as dependências necessárias usando `pip install -r requirements.txt`;
+4. Abra o arquivo `LH_CD_ALINE_CASTRO.ipynb` em um ambiente Jupyter Notebook;
+5. Faça o upload da base de dados disponibilizada 'teste_indicium_precificacao.csv';
+6. Você pode visualizar no Colab (clicando no badge do Colab no início do projeto).
 
 ## Bibliotecas Utilizadas
 
